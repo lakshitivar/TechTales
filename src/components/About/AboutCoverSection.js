@@ -6,7 +6,7 @@ const AboutCoverSection = () => {
   return (
     <section className='w-full md:h-[75vh] border-b-2 border-solid border-dark dark:border-light flex flex-col md:flex-row items-center justify-center text-dark dark:text-light'>
         <div className='w-full md:w-1/2 h-full border-r-2 border-solid border-dark dark:border-light flex justify-center'> 
-            <Image src={profileCharacter} alt="CodeBucks" 
+            <Image src={profileCharacter} alt="TechTales" 
             className='w-4/5  xs:w-3/4 md:w-full h-full object-contain object-center'
             priority
             sizes="(max-width: 768px) 100vw,(max-width: 1180px) 50vw, 50vw"
@@ -18,7 +18,7 @@ const AboutCoverSection = () => {
             Dream Big, Work Hard, Achieve More!
             </h2>
             <p className='font-medium capitalize mt-4 text-base'>
-            This Mantra Drives My Work As A Passionate Freelancer. I Blend Innovative Technology With Timeless Design For Captivating Digital Experiences. Inspired By Nature And Literature, I'm A Perpetual Learner Embracing Challenges. With Each Project, I Aim To Leave A Lasting Impact—One Pixel At A Time.
+            Welcome to Techtales, your go-to source for the latest trends, insights, and analysis in the world of technology. Our mission is to provide you with in-depth articles, reviews, and tutorials that help you stay ahead in the ever-evolving tech landscape.At Techtales, we are a passionate team of tech enthusiasts, writers, and experts dedicated to bringing you the most relevant and up-to-date content.
             </p>
         </div>
     </section>

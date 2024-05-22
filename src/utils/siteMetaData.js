@@ -9,13 +9,10 @@ const siteMetadata = {
     siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
-    twitter: 'https://twitter.com/code_bucks',
-    facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
-    dribbble: 'https://www.dribbble.com',
+    email: 'example@gmail.com', 
+    github: 'https://www.bing.com/search?pglt=513&q=github&cvid=62f8821f5657487cbf28de4bc049ee44&gs_lcrp=EgZjaHJvbWUqBggCEAAYQDIGCAAQRRg8MgYIARBFGDsyBggCEAAYQDIGCAMQRRg7MgYIBBAuGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPNIBCDM4NDJqMGoxqAIIsAIB&FORM=ANNTA1&PC=U531',
+    twitter: 'https://twitter.com',
+    linkedin: 'https://www.linkedin.com',
     locale: 'en-US',
   }
   

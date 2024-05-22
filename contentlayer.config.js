@@ -46,10 +46,6 @@ const Blog = defineDocumentType(() => ({
       type: "string",
       resolve: (doc) => `/blogs/${doc._raw.flattenedPath}`,
     },
-    readingTime: {
-      type: "json",
-      resolve: (doc) => readingTime(doc.body.raw)
-    },
     toc:{
       type: "json",
       resolve: async (doc) => {
